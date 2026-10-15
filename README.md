@@ -1,4 +1,14 @@
-# Achyuth PV
+<p align="center">
+  <img src="./assets/header.svg" width="840" alt="Achyuth PV — student developer exploring full-stack development, AI, fintech, and Web3" />
+  <img src="./assets/typing.svg" width="840" alt="Building tools for better decisions. Exploring inventory, payments, and risk. Learning the systems behind the interface." />
+</p>
+
+<p align="center">
+  <a href="#what-im-building">Projects</a> ·
+  <a href="#technologies-i-work-with">Tech stack</a> ·
+  <a href="#github-in-motion">GitHub stats</a> ·
+  <a href="#lets-connect">Connect</a>
+</p>
 
 I build software around decisions: what to reorder, when a payment can proceed, and how much risk a position carries.
 
@@ -11,6 +21,8 @@ I'm studying **B.Tech Information Technology at SRMIST, Ramapuram**, and develop
 Three projects exploring how to turn complex information into a useful next step.
 
 ### 01 / SupplyLens
+
+[![SupplyLens — operations and inventory intelligence](./assets/supplylens.svg)](https://github.com/Achyuth777/SupplyLens)
 
 **An inventory workspace that connects demand forecasts to purchasing decisions.**
 
@@ -30,6 +42,8 @@ For operations teams, knowing stock is running low is only part of the problem. 
 
 ### 02 / TreasuryFlow
 
+[![TreasuryFlow — supplier payments, approval controls, and reconciliation](./assets/treasuryflow.svg)](https://github.com/Achyuth777/treasuryflow)
+
 **A supplier-payment project built around approvals, traceability, and recovery.**
 
 A payment workflow has to answer more than “did it succeed?” Who approved it, can a retry pay twice, and what happens when settlement finishes but the response never arrives?
@@ -47,6 +61,8 @@ A payment workflow has to answer more than “did it succeed?” Who approved it
 ---
 
 ### 03 / Argus AI
+
+[![Argus AI — Solana DeFi risk simulation](./assets/argus.svg)](https://github.com/Achyuth777/argus-ai)
 
 **A Solana DeFi risk simulator for exploring how positions respond to market shocks.**
 
@@ -70,16 +86,33 @@ I enjoy understanding the rules underneath an interface: how inventory changes, 
 
 ## Technologies I work with
 
+<img src="./assets/stack.svg" width="840" alt="Languages: TypeScript, JavaScript, Java, Solidity. Interfaces: React, Next.js, Tailwind, Recharts. Backend: Spring Boot, PostgreSQL, Cloudflare Workers, D1 and R2. Workflow: Git, GitHub, Docker, Vite and Vercel." />
+
+<details>
+<summary>View the stack as text</summary>
+
 - **Languages:** TypeScript, JavaScript, Java, Solidity
 - **Interfaces:** React, Next.js, Tailwind CSS, Recharts
-- **Backend and data:** Spring Boot, PostgreSQL, Cloudflare Workers, D1, R2
-- **Development and deployment:** Git, GitHub, Docker, Vite, Vercel
+- **Backend:** Spring Boot, PostgreSQL, Cloudflare Workers, D1, R2
+- **Tools:** Git, GitHub, Docker, Vite, Vercel
+
+</details>
 
 These are tools used across my projects; I'm still building depth in the systems behind them.
 
 ## Currently exploring
 
 I'm working on data structures and algorithms, backend architecture, and more reliable full-stack applications. My projects give me concrete questions to follow: handling concurrent updates, recovering from failures, and keeping AI explanations grounded in financial data.
+
+## GitHub in motion
+
+<a href="https://github.com/Achyuth777?tab=repositories"><img src="./assets/stats.svg" width="840" alt="Public repositories, stars, followers, contributions, and contribution streaks. The image includes its last update date." /></a>
+
+<img src="./assets/languages.svg" width="840" alt="Most-used languages by code bytes across my public non-fork repositories. This measures repository contents, not proficiency." />
+
+<a href="https://github.com/Achyuth777?tab=overview"><img src="./assets/activity.svg" width="840" alt="My actual GitHub contribution calendar, with a decorative animated snake trail." /></a>
+
+<sub>Generated from public GitHub data. [Daily refresh workflow](https://github.com/Achyuth777/Achyuth777/actions/workflows/profile-stats.yml) · [How the numbers work](./PROFILE-VISUALS.md). Streaks use UTC; language shares describe code, not expertise.</sub>
 
 ## Let's connect
 
